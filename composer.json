@@ -1,0 +1,17 @@
+{
+    "name": "errors/native",
+    "description": "A meta-package for requiring native error handling.",
+    "keywords": ["error", "errors", "handler", "native"],
+    "homepage": "https://github.com/php-errors/native",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erin Millard",
+            "email": "ezzatron@gmail.com",
+            "homepage": "http://ezzatron.com/"
+        }
+    ],
+    "conflict": {
+        "errors/exceptions": "^1"
+    }
+}
