@@ -1,6 +1,6 @@
 {
     "name": "errors/native",
-    "description": "A meta-package for requiring native error handling.",
+    "description": "A meta-package that indicates a requirement for native error handling.",
     "keywords": ["error", "errors", "handler", "native"],
     "homepage": "https://github.com/php-errors/native",
     "license": "MIT",
