@@ -12,6 +12,6 @@
         }
     ],
     "conflict": {
-        "errors/exceptions": "^1"
+        "errors/exceptions": "*"
     }
 }
