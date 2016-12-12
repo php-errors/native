@@ -8,4 +8,4 @@ this [specification]:
     composer require errors/native
 
 [exception-based]: https://github.com/php-errors/exceptions
-[specification]: https://github.com/php-errors/exceptions/blob/master/doc/specification.md
+[specification]: https://github.com/php-errors/specification/blob/master/exception-based-error-handler.md
